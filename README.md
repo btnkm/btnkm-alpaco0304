@@ -6,4 +6,4 @@
 5. method: img preprocessing with
 6. model: yolo v8 with pytorch
 
- <img scr="architecture.jpg" width="200" height="400"/>
+ <img src="architecture.jpg" width="200" height="400"/>
